@@ -1,0 +1,25 @@
+
+#about-section{
+    padding-top: 50px;
+}
+.cs-team{
+    width: 150px;
+    border-radius: 50%;
+}
+
+@media screen and (max-width:550px)
+{
+    .cs-logo{
+        padding-top: 15px;
+    }
+}
+@media screen and (max-width: 550px)
+{
+    .about-section{
+        padding-top: 10px;
+    }
+}
+    
+
+
+   
